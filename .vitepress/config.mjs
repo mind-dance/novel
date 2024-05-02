@@ -87,7 +87,6 @@ export default defineConfig({
             { text: '第六十五章 房东太太', link: '/少年阿宾/65'},
             { text: '第六十六章 房东太太', link: '/少年阿宾/66'},
             { text: '第六十七章 房东太太', link: '/少年阿宾/67'},
-
           ]
         }
       ]
