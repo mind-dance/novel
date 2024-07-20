@@ -5,11 +5,11 @@ layout: home
 hero:
   name: "灵车小说网"
   text: "一个随时会寄的小说网站"
-  tagline: 别到处分享，我不想吃牢饭
+  tagline: 自己偷偷看
   actions:
     - theme: brand
       text: 文章目录
-      link: /main-menu
+      link: /library
 
 features:
   - title: 精校
